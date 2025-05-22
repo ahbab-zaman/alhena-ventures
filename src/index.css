@@ -4,6 +4,9 @@
 
 @custom-variant dark (&:is(.dark *));
 
+*{
+  scroll-behavior: smooth;
+}
 .primary-font {
   font-family: "Fahkwang", sans-serif;
 }
